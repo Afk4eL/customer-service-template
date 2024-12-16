@@ -1,0 +1,12 @@
+Mode: Local
+
+Server:
+  Port: 50051
+  Timeout: 10h
+
+Postgres:
+  PostgresHost: localhost
+  PostgresPort: 5432
+  PostgresUser: postgres
+  PostgresPassword: password
+  PostgresDbname: customer-service
